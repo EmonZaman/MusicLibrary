@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		032335A529136B170035D2C8 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 032335A429136B170035D2C8 /* CustomTableViewCell.swift */; };
 		032A454E29126ADE00B357CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 032A454D29126ADE00B357CB /* AppDelegate.swift */; };
 		032A455029126ADE00B357CB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 032A454F29126ADE00B357CB /* SceneDelegate.swift */; };
 		032A455229126ADE00B357CB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 032A455129126ADE00B357CB /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		032335A429136B170035D2C8 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		032A454A29126ADE00B357CB /* MusicLibrary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicLibrary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		032A454D29126ADE00B357CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		032A454F29126ADE00B357CB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				032A455B29126AE000B357CB /* LaunchScreen.storyboard */,
 				032A455E29126AE000B357CB /* Info.plist */,
 				032A455629126ADE00B357CB /* MusicLibrary.xcdatamodeld */,
+				032335A429136B170035D2C8 /* CustomTableViewCell.swift */,
 			);
 			path = MusicLibrary;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				032A455229126ADE00B357CB /* ViewController.swift in Sources */,
+				032335A529136B170035D2C8 /* CustomTableViewCell.swift in Sources */,
 				032A454E29126ADE00B357CB /* AppDelegate.swift in Sources */,
 				032A455029126ADE00B357CB /* SceneDelegate.swift in Sources */,
 				032A455829126ADE00B357CB /* MusicLibrary.xcdatamodeld in Sources */,
